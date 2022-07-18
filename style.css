@@ -1,0 +1,48 @@
+body{
+    background-image: url("https://media.gettyimages.com/photos/asphalt-road-with-the-urban-skyline-as-the-background-at-night-picture-id1331946398?s=2048x2048");
+    font-weight: 600;
+    color:blanchedalmond
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    margin:3%
+}
+
+h2,
+#CityNameElement,
+#futureTitle{
+   margin: 3%;  
+}
+
+li{
+    font-size: 110%;
+    list-style: none;
+}
+
+p{
+    font-size: 110%;
+}
+
+.WeatherToday{
+    padding: -2% 2%;
+    border-color: rgb(55, 170, 55);
+    border-style: solid;
+}
+
+.row{
+    margin:3%
+}
+
+.hide{
+    display: none;
+}
+
+
+
+#UVElement{
+    width:20%;
+}
+
+/*border-color: rgb(101, 101, 140);*/
