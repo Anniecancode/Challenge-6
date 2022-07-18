@@ -12,7 +12,8 @@ header{
 
 h2,
 #CityNameElement,
-#futureTitle{
+#futureTitle
+{
    margin: 3%;  
 }
 
@@ -23,6 +24,17 @@ li{
 
 p{
     font-size: 110%;
+}
+
+.icon{
+    height:50px;
+    width:50px;
+}
+
+.CityDisplay{
+    margin-left: 6%;
+    margin-top: 3%;
+    width: 60%;
 }
 
 .WeatherToday{
@@ -38,8 +50,6 @@ p{
 .hide{
     display: none;
 }
-
-
 
 #UVElement{
     width:20%;
